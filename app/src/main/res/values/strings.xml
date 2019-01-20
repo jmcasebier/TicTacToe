@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="quit_message">Are you sure?</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="quit_button">Quit</string>
+    <string name="play_again_button">Play Again</string>
+    <string name="main__menu_button">Main Menu</string>
+    <string name="tie_message">It\'s a tie!</string>
+    <string name="win_message">wins!</string>
+    <string name="choose_message">Choose a side:</string>
+    <string name="rules_message">moves first</string>
+    <string name="share_subject">Check out this awesome Tic Tac Toe app!\n</string>
+    <string name="share_text">Take a break and play Tic Tac Toe.\n</string>
+</resources>
